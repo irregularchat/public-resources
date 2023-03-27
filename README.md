@@ -4,6 +4,11 @@ This repository contains checklists, cheat sheets, lessons, and other materials 
 
 The materials in this repository are intended for anyone interested in military, technology, and cybersecurity topics. Whether you're a student, hobbyist, or professional in these fields, you may find useful information and resources here.
 
+**IF YOU ADD**, please:
+- No spaces; use under_scores-or-dashes
+- Brief Topic followed by your section or identifier; topic_checklist-unit
+- See  [Contributing](#contributing) for steps to make corrections or suggestions for other's work
+
 ## Table of Contents
 
 - [Checklists](#checklists)
