@@ -20,10 +20,9 @@ The materials in this repository are intended for anyone interested in military,
 
 - [Digital Force Protection Checklist](/checklists/digital-force-protection-checklist.md): A checklist of best practices for protecting digital security and privacy.
 
-## [Cheatsheets](/Cheatsheets)
+## Cheatsheets
 
-- [Command Line Cheatsheet](/cheatsheets/command-line-cheatsheet.md): A cheatsheet of commonly used commands and syntax in the command line interface (CLI).
-- [Python Cheatsheet](/cheatsheets/python-cheatsheet.md): A cheatsheet of commonly used syntax and commands in Python.
+- [Wiki Page](https://wiki.irregularchat.com/en/resources/cybersecurity)
 
 ## [Lessons](/Lessons)
 
