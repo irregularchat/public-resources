@@ -1,5 +1,5 @@
 - [ ] Protect Against Cyber Threats
-Cyber threats can affect you, your family, and the mission!
+Cyber threats can affect you, your family, and the mission! testt
 
 1. Secure your device
     - [x] Turn off all wireless services not currently used. (WiFi, BT, GPS, NFC) 
