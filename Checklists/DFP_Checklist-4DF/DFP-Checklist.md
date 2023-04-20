@@ -11,7 +11,7 @@
       - Typically found under “privacy and security” account settings.
       - SMS is the least secure method.
 - [ ] Google yourself and your family:
-      - Request images or data to be taken down as needed.
+      - Request images or data to be taken down as needed. [[Templates/DMCA Takedown Notice]]
       - Update account privacy settings as needed.
 
 ## Don'ts
@@ -33,7 +33,7 @@
 - [ ] Enable Automatic Updates.
 - [ ] Disable "Personalized Ad" or AD ID.
       - Use an AdBlocker.
-- [ ] Enable Multi-Factor Authentication:
+- [ ] Enable Multi-Factor Authentication: [MFA  wiki](https://wiki.irregularchat.com/en/learning/security-and-privacy/mfa)
       - Use Authenticator App or Physical Yubikey.
 - [ ] Always Use A VPN, such as MullvadVPN.
 - [ ] Turn Off WIFI “Auto-Connect.”
@@ -49,3 +49,6 @@
 - [ ] Lock Devices with 8 Digit Pin or Text Password.
       - Don’t use Biometric options.
 
+## Bonus
+- Use a VPN to download files and when clicking on suspicious links - https://www.youtube.com/watch?v=wX75Z-4MEoM/
+- Phishing Quiz by Google - https://phishingquiz.withgoogle.com/
