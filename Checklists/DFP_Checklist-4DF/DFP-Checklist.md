@@ -1,4 +1,5 @@
 # Digital Force Protection Checklist
+**NOTE:** _This checklist is intended for broad audiences not focused on any specific areas or requriments. The checklist is designed to include only actions which can be done with minimal googling and not to be all-inclusive._ 
 
 ## DOs
 
