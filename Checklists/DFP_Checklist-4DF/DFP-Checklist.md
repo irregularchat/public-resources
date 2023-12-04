@@ -39,15 +39,15 @@
       - Use Authenticator App or Physical Yubikey.
 - [ ] Always Use A VPN, such as MullvadVPN.
 - [ ] Turn Off WIFI “Auto-Connect.”
-- [ ] Clear Unused WIFI & Bluetooth Devices.
+- [ ] Clear Unused WIFI & Bluetooth Connections.
 - [ ] Make and Maintain Backups:
-      - Keep important files backed up offline.
+      - Keep Important Files Backed Up Offline.
 - [ ] Opt-Out of data collection:
-      - https://simpleoptout.com/.
+      - https://simpleoptout.com/
 - [ ] Google Yourself.
       - Request Opt-Out and DMCA Takedowns.
 - [ ] Uninstall Unused or Unrecognized Applications.
-- [ ] Create and use NON-Admin Accounts.
+- [ ] Create and Use NON-Admin Accounts.
 - [ ] Lock Devices with 8 Digit Pin or Text Password.
       - Don’t use Biometric options.
 
