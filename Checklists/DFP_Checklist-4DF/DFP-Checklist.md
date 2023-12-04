@@ -4,7 +4,7 @@
 ## DOs
 
 - [ ] Use complex passwords:
-      - All account passwords should be password manager generated 22+ character passwords with UPPER, lower, numbers, and symbols.
+      - All account passwords should be password manager generated 22+ character passwords with UPPER, lower, numbers, and symbols too. 
 - [ ] Opt-out of all “personalized” ads:
       - Disable “Advertising ID” on all devices.
 - [ ] Turn off WIFI, GPS, and Bluetooth when not directly in use.
@@ -25,7 +25,7 @@
 - [ ] Don’t set privacy to “All,” “Public,” or “Everyone”:
       - Think of the Strava case study. Restrict posts and profiles to “only with friends” or “only with myself.”
 - [ ] Don’t use SMS:
-      - Use Signal.
+      - Use Signal or Element Messenger
       - Set your chats to auto-disappear by default.
 
 ## Checklist
