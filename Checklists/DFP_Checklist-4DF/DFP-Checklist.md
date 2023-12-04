@@ -45,7 +45,7 @@
 - [ ] Opt-Out of data collection:
       - https://simpleoptout.com/
 - [ ] Google Yourself.
-      - DMCA Takedowns & Personal Content Removal.
+      - [DMCA Takedowns](https://github.com/irregularchat/public-resources/blob/main/Templates/DMCA%20Takedown%20Notice.md) & Personal Content Removal.
 - [ ] Uninstall Unused or Unrecognized Applications.
 - [ ] Create and Use NON-Admin Accounts.
 - [ ] Lock Devices with 8 Digit Pin or Text Password.
