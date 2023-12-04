@@ -8,7 +8,7 @@
       Length is most important!
 - [ ] Opt-out of all “personalized” ads:
       - Disable “Advertising ID” on all devices.
-- [ ] Turn off WIFI, GPS, and Bluetooth when not directly in use.
+- [ ] Turn off WIFI, and Bluetooth when not directly in use.
 - [ ] Always use Multi-Factor Authentication:
       - Typically found under “privacy and security” account settings.
       - SMS is the least secure method.
