@@ -4,7 +4,8 @@
 ## DOs
 
 - [ ] Use complex passwords:
-      - All account passwords should be password manager generated 22+ character passwords with UPPER, lower, numbers, and symbols too. 
+      - All account passwords should be password manager generated 22+ character passwords with UPPER, lower, numbers, and symbols too.
+      Length is most important!
 - [ ] Opt-out of all “personalized” ads:
       - Disable “Advertising ID” on all devices.
 - [ ] Turn off WIFI, GPS, and Bluetooth when not directly in use.
