@@ -4,10 +4,11 @@
 ## DOs
 
 - [ ] Use complex passwords:
-      - All account passwords should be password manager generated 22+ character passwords with UPPER, lower, numbers, and symbols.
+      - All account passwords should be password manager generated 22+ character passwords with UPPER, lower, numbers, and symbols too.
+      Length is most important!
 - [ ] Opt-out of all “personalized” ads:
       - Disable “Advertising ID” on all devices.
-- [ ] Turn off WIFI, GPS, and Bluetooth when not directly in use.
+- [ ] Turn off WIFI, and Bluetooth when not directly in use.
 - [ ] Always use Multi-Factor Authentication:
       - Typically found under “privacy and security” account settings.
       - SMS is the least secure method.
@@ -25,7 +26,7 @@
 - [ ] Don’t set privacy to “All,” “Public,” or “Everyone”:
       - Think of the Strava case study. Restrict posts and profiles to “only with friends” or “only with myself.”
 - [ ] Don’t use SMS:
-      - Use Signal.
+      - Use Signal or Element Messenger
       - Set your chats to auto-disappear by default.
 
 ## Checklist
@@ -38,15 +39,15 @@
       - Use Authenticator App or Physical Yubikey.
 - [ ] Always Use A VPN, such as MullvadVPN.
 - [ ] Turn Off WIFI “Auto-Connect.”
-- [ ] Clear Unused WIFI & Bluetooth Devices.
+- [ ] Clear Unused WIFI & Bluetooth Connections.
 - [ ] Make and Maintain Backups:
-      - Keep important files backed up offline.
+      - Keep Important Files Backed Up Offline.
 - [ ] Opt-Out of data collection:
-      - https://simpleoptout.com/.
+      - https://simpleoptout.com/
 - [ ] Google Yourself.
-      - Request Opt-Out and DMCA Takedowns.
+      - DMCA Takedowns & Personal Content Removal.
 - [ ] Uninstall Unused or Unrecognized Applications.
-- [ ] Create and use NON-Admin Accounts.
+- [ ] Create and Use NON-Admin Accounts.
 - [ ] Lock Devices with 8 Digit Pin or Text Password.
       - Don’t use Biometric options.
 
