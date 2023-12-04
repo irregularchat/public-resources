@@ -45,7 +45,7 @@
 - [ ] Opt-Out of data collection:
       - https://simpleoptout.com/
 - [ ] Google Yourself.
-      - Request Opt-Out and DMCA Takedowns.
+      - DMCA Takedowns & Personal Content Removal.
 - [ ] Uninstall Unused or Unrecognized Applications.
 - [ ] Create and Use NON-Admin Accounts.
 - [ ] Lock Devices with 8 Digit Pin or Text Password.
