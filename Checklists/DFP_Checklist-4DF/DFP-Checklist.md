@@ -35,7 +35,7 @@
 - [ ] Enable Automatic Updates.
 - [ ] Disable "Personalized Ad" or AD ID.
       - Use an AdBlocker.
-- [ ] Enable Multi-Factor Authentication: [MFA  wiki]([https://wiki.irregularchat.com/en/learning/security-and-privacy/mfa](https://wiki.irregularchat.com/en/resources/guides/dfp-guide/mfa-guide))
+- [ ] Enable Multi-Factor Authentication: [MFA  wiki](https://wiki.irregularchat.com/en/resources/guides/dfp-guide/mfa-guide)
       - Use Authenticator App or Physical Yubikey.
 - [ ] Always Use A VPN, such as MullvadVPN.
 - [ ] Turn Off WIFI “Auto-Connect.”
