@@ -13,7 +13,7 @@
       - Typically found under “privacy and security” account settings.
       - SMS is the least secure method.
 - [ ] Google yourself and your family:
-      - Request images or data to be taken down as needed. [[Templates/DMCA Takedown Notice]]
+      - Request images or data to be taken down as needed. [Templates/DMCA Takedown Notice](https://github.com/irregularchat/public-resources/blob/main/Templates/DMCA%20Takedown%20Notice.md)
       - Update account privacy settings as needed.
 
 ## Don'ts
