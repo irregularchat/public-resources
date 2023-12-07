@@ -3,7 +3,7 @@
 
 ## DOs
 
-- [ ] Use complex passwords:
+- [ ] Use Long Passwords:
       - All account passwords should be password manager-generated 22+ character passwords with UPPER, lower numbers, and symbols.
       Length is most important!
 - [ ] Opt-out of all “personalized” ads:
