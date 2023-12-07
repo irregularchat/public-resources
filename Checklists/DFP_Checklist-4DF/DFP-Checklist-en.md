@@ -48,8 +48,8 @@
       - [DMCA Takedowns](https://github.com/irregularchat/public-resources/blob/main/Templates/DMCA%20Takedown%20Notice.md) & Personal Content Removal.
 - [ ] Uninstall Unused or Unrecognized Applications.
 - [ ] Create and Use NON-Admin Accounts.
-- [ ] Lock Devices with an 8-digit PIN or Text Password.
-      - Don’t use Biometric options.
+- [ ] Lock Devices with a biometric option and a strong password.
+   - Reboot the device at points of entrance
 
 ## Bonus
 - Use a VPN to download files and when clicking on suspicious links - https://www.youtube.com/watch?v=wX75Z-4MEoM/
