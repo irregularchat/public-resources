@@ -49,8 +49,7 @@
 - [ ] Uninstall Unused or Unrecognized Applications.
 - [ ] Create and Use NON-Admin Accounts.
 - [ ] Lock Devices with a biometric option and a strong password.
-   - Reboot the device at points of entrance
-
+   - Reboot the device during times of increased risk.
 ## Bonus
 - Use a VPN to download files and when clicking on suspicious links - https://www.youtube.com/watch?v=wX75Z-4MEoM/
 - Phishing Quiz by Google - https://phishingquiz.withgoogle.com/
