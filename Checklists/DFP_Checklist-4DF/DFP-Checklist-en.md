@@ -1,14 +1,14 @@
 # Digital Force Protection Checklist
-**NOTE:** _This checklist is intended for broad audiences not focused on any specific areas or requriments. The checklist is designed to include only actions which can be done with minimal googling and not to be all-inclusive._ 
+**NOTE:** _This checklist is intended for broad audiences, not focused on any specific areas or requirements. The checklist is designed to include only actions that can be done with minimal googling and not to be all-inclusive._ 
 
 ## DOs
 
 - [ ] Use complex passwords:
-      - All account passwords should be password manager generated 22+ character passwords with UPPER, lower, numbers, and symbols too.
+      - All account passwords should be password manager-generated 22+ character passwords with UPPER, lower numbers, and symbols.
       Length is most important!
 - [ ] Opt-out of all “personalized” ads:
       - Disable “Advertising ID” on all devices.
-- [ ] Turn off WIFI, and Bluetooth when not directly in use.
+- [ ] Turn off WIFI and Bluetooth when not directly in use.
 - [ ] Always use Multi-Factor Authentication:
       - Typically found under “privacy and security” account settings.
       - SMS is the least secure method.
@@ -48,7 +48,7 @@
       - [DMCA Takedowns](https://github.com/irregularchat/public-resources/blob/main/Templates/DMCA%20Takedown%20Notice.md) & Personal Content Removal.
 - [ ] Uninstall Unused or Unrecognized Applications.
 - [ ] Create and Use NON-Admin Accounts.
-- [ ] Lock Devices with 8 Digit Pin or Text Password.
+- [ ] Lock Devices with an 8-digit PIN or Text Password.
       - Don’t use Biometric options.
 
 ## Bonus
