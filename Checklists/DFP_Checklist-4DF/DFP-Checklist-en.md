@@ -47,7 +47,7 @@
 - [ ] Google Yourself.
       - [DMCA Takedowns](https://github.com/irregularchat/public-resources/blob/main/Templates/DMCA%20Takedown%20Notice.md) & Personal Content Removal.
 - [ ] Uninstall Unused or Unrecognized Applications.
-- [ ] Create and Use NON-Admin Accounts.
+- [ ] Lock Your Devices When Out Of Reach
 - [ ] Lock Devices with a biometric option and a strong password.
    - Reboot the device during times of increased risk.
 ## Bonus
