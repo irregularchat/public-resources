@@ -3,6 +3,8 @@
 
 - DFP Checklist Printout [here](https://github.com/irregularchat/public-resources/blob/main/Checklists/DFP_Checklist-4DF/Files/DFP-Checklist-By_Languages/DFP-Checklist-English.png)
 - DFP Checklist Photoshop PSD Layered Files [here](https://github.com/irregularchat/public-resources/blob/main/Checklists/DFP_Checklist-4DF/Files/Multilingual-DTP-Checklist.psd)
+- - DFP Checklist Printout [here](./Files/DFP-Checklist-By_Languages/DFP-Checklist-English.png)
+
 
 ## DOs
 
