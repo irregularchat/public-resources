@@ -1,6 +1,9 @@
 # Digital Force Protection Checklist
 **NOTE:** _This checklist is intended for broad audiences, not focused on any specific areas or requirements. The checklist is designed to include only actions that can be done with minimal googling and not to be all-inclusive._ 
 
+- DFP Checklist Printout [here](https://github.com/irregularchat/public-resources/blob/main/Checklists/DFP_Checklist-4DF/Files/DFP-Checklist-By_Languages/DFP-Checklist-English.png)
+- DFP Checklist Photoshop PSD Layered Files [here](https://github.com/irregularchat/public-resources/blob/main/Checklists/DFP_Checklist-4DF/Files/Multilingual-DTP-Checklist.psd)
+
 ## DOs
 
 - [ ] Use Long Passwords:
