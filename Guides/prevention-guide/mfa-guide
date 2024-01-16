@@ -1,0 +1,67 @@
+# What is MFA
+Multi-factor authentication (MFA) is a layered approach to securing your online accounts and their data.  When you enable MFA in your online services (like email), you must provide a combination of two or more authenticators to verify your identity before the service grants you access. Using MFA protects your account more than just using a username and password. According to Microsoft, users who enable MFA are significantly less likely to get hacked. Why? Because even if one factor (like your password) becomes compromised, unauthorized users will be unable to meet the second authentication requirement, ultimately stopping them from gaining access to your accounts.
+
+It goes by many names: Two Factor Authentication, Multi-Factor Authentication, Two Step Authentication, MFA, 2FA, and UFA. They all refer to using a combination of something we have, know, or are when confirming we are who we say we are online.[1]
+
+MFA combines two or more independent credentials:
+
+1.  what the **user knows** (password)
+2.  what the **user has** (security token)
+3.  what the **user is** (biometric verification).
+
+### MFA Backup Codes
+
+Backup One-Time Passcodes (OTP) are vital for deployments and should be part of every Soldier's mental "Go Bag." Remember one of the OTP for your most important accounts if you need to access an account on an unknown device.
+
+Situations prohibiting personal devices may require using backup OTP to access accounts.
+
+## Types of MFA
+1. **(WEAKEST)** Text Message (SMS) or Email: When you log in to an account, the service will send a code to your phone or email account, which you then use to log in. Note that this SMS/mail is the weakest form of MFA, and you should only use it if none of the other options are available.
+2. Authenticator App: An authenticator app generates MFA login codes on your smartphone. When prompted for your MFA code, you launch the app and type in the displayed number. These codes often expire every 30 or 60 seconds.
+3. Push notification: Instead of using a numeric code, the service “pushes” a request to your phone to ask if it should let you in. You will see a pop-up and can approve the login request or deny it if you did not initiate the authentication request.   
+4. FIDO authentication: FIDO stands for "Fast Identity Online" and is the gold standard of multi-factor authentication. The FIDO protocol is built into all major browsers and phones.  It can use secure biometric authentication mechanisms – like facial recognition, a fingerprint, or voice recognition – and is built on strong cryptography. Often it uses a physical device – a key – essentially an encrypted version of a key to your house. More information on FIDO keys is available from the FIDO Alliance.
+5. **(STRONGEST)** Universal 2nd Factor (U2F): Hardware tokens such as a CAC, Nitrokey, or Yubikey. Hardware tokens protect access to computers, networks, and online services that support one-time passwords (OTP),public-key cryptography, authentication, and the Universal 2nd  Factor (U2F) and FIDO2 protocols developed by the FIDO Alliance. When paired with a touch-required or NFC mechanism, UFA is considered **Phishing-Resistant** [2]
+
+
+# How To Enable MFA
+## App MFA (TOTP)
+The instructions below may not be exact and may be slightly different depending on the service you are using.
+1. log in to the account
+2. Settings
+3. Security & Privacy
+4. Enable or Setup (MFA / Multi-Factor Authentication / 2FA / Two-Factor Authentication)
+5. Select "Mobile App."
+	- Do NOT select SMS unless it is the only choice.
+6. Select "I can't see" or "Enter manually" to obtain MFA "seed."
+	- Scan QR Code with Authenticator App if the manual is not allowed
+7. Securely store MFA seed in a password manager or encrypted database
+8. Print the backup keys provided and save them to the encrypted database
+### Recommended Software for MFA
+- OTP Auth ([iOS](https://apps.apple.com/us/app/otp-auth/id659877384))
+- Aegis ([Android](https://getaegis.app/))
+- Authenticator ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/auth-helper/))
+
+## Hardware Token (UFA)
+The instructions below may not be exact and cover the average service.
+1. log in to the account
+2. Settings
+3. Security & Privacy
+4. Enable or Add "Hardware keys."
+5. Insert Hardware Token when prompted
+
+**NOTE: About Backups:** Configuring a duplicate hardware token and storing it in a safe location as a backup is recommended.
+### Recommended Hardware for UFA 
+<a href="https://www.yubico.com/product/security-key-c-nfc-by-yubico/" target="_blank">Cheapest 2FA Yubikey: Security Key C NFC by Yubico</a>
+No frills while still providing phishing-resistant UFA.
+>TAP-AND-GO - Tap Security Key C NFC to NFC-enabled Android, Windows 10 and iOS devices and applications | Also slips into any standard USB-C port
+DURABLE - Fiberglass reinforced bodies protect key from everyday life
+PORTABLE - Fit Security Key on a keyring and carry it without any worry
+COMPATIBLE - Security Key fits into any standard USB-C port
+
+**NOTE: About Buying Yubikey:** The more expensive yubikeys have additional features such as encryption and signature capability, which are more advanced and you may not need.
+
+--- 
+
+1. https://www.cisa.gov/mfa
+2. https://www.yubico.com/authentication-standards/fido-u2f/
+
